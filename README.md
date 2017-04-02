@@ -425,4 +425,4 @@ Se desejar rodar o programa, execute `scrapy crawl phones` e veja o resultado!
 ### Por enquanto, isso é tudo, pessoal!  Abraço!
 
 ---
-Este código-fonte está sob a MIT License, veja License.txt para mais detalhes.
+Este código-fonte está sob a MIT License, veja License.md para mais detalhes.
