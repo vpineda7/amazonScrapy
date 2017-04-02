@@ -129,7 +129,7 @@ Phones>Unlocked Cell Phones*.
 
 Vamos fazer uma pesquisa por *unlocked cellphones* na seção.
 
-A ideia é ir mexendo na url até encontrar uma url que contenha todos os resultados (note que normalmente só retornam poucas páginas).
+A ideia é ir mexendo na url até encontrar uma url que contenha todos os resultados (note que normalmente só retornam poucas páginas, em torno de 15).
 
 Por fim, encontraremos a seguinte url: `https://www.amazon.com/unlocked-cell-phones/s?ie=UTF8&page=1&rh=n%3A2407749011%2Ck%3Aunlocked%20cell%20phones`
 
